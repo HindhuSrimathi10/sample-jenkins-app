@@ -23,7 +23,6 @@ class TestApp(unittest.TestCase):
     # This test will fail - uncomment it later to test failure
     # def test_that_will_fail(self):
     #     """This test will fail"""
-    #     self.assertEqual(1, 2)
 
 if __name__ == '__main__':
     unittest.main()
